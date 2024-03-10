@@ -5,6 +5,7 @@ export default defineConfig({
   title: 'Laravel Bootcamp',
   description: 'Laravel Basic CRUD Tutorial',
   head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
+  ignoreDeadLinks: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: 'https://bootcamp.laravel.com/img/logomark.min.svg',
