@@ -13,13 +13,13 @@ Tahap pertama, install Project Laravel dengan perintah berikut:
 **Terminal / Bash**
 
 ```bash
-composer create-project laravel/laravel nama_project
+composer create-project laravel/laravel:^10.0 nama_project
 ```
 
 Ubah perintah **nama_project** dengan nama yang sudah kita tentukan yaitu, **ars-news**.
 
 ```bash
-composer create-project laravel/laravel ars-news
+composer create-project laravel/laravel:^10.0 ars-news
 ```
 
 Setelah proses instalasi selesai, buka project laravel dengan **VSCode.**
