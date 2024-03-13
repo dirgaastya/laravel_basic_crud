@@ -98,7 +98,7 @@ Selanjutnya kita membuat halaman dari index artikel.
 
 Pada `index.blade.php`, tambahkan kode seperti di bawah.
 
-**resources/views/article/create.blade.php**
+**resources/views/article/index.blade.php**
 
 ```blade
 @extends('layout.app')
